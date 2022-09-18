@@ -17,7 +17,7 @@ A fájlok a következő funckiókat töltik be:
 
 
 
-És ha végképp elegünk van a GIT-ből, akkor jó tudni, hogy nem vagyunk egyedül nem szégyen scracth-ből elkezdeni újra az egészet
+* *git_funny.png* És ha végképp elegünk van a GIT-ből, akkor jó tudni, hogy nem vagyunk egyedül nem szégyen scracth-ből elkezdeni újra az egészet
 
 ![GIT_funny_fig](git_funny.png)
 
