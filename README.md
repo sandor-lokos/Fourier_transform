@@ -14,3 +14,11 @@ A fájlok a következő funckiókat töltik be:
 * *test.png* : ez a tesztprogram kimeneti ábrája, íme
 
 ![Teszt ábra](test.png)
+
+
+
+És ha végképp elegünk van a GIT-ből, akkor jó tudni, hogy nem vagyunk egyedül nem szégyen scracth-ből elkezdeni újra az egészet
+
+![GIT_funny_fig](git_funny.png)
+
+Aki hasonlóba belefut, ossza meg a saját git repojában!
