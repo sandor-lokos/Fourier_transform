@@ -8,9 +8,9 @@ Az itt található fájlok egy numerikus integráló programot valósítanak meg
 
 A fájlok a következő funckiókat töltik be:
 
-* README.md : ez a fájl
-* function_definition.py : tartalmazza az összes függvény és osztály definiciót
-* numerical_integral.py : egy tesztprogram, ami használja a *function_definition.py* fájlban lévő függvényeket és csinál egy ábrát is
-* test.png : ez a tesztprogram kimeneti ábrája, íme
+* *README.md* : ez a fájl
+* *function_definition.py* : tartalmazza az összes függvény és osztály definiciót
+* *numerical_integral.py* : egy tesztprogram, ami használja a *function_definition.py* fájlban lévő függvényeket és csinál egy ábrát is
+* *test.png* : ez a tesztprogram kimeneti ábrája, íme
 
 ![Teszt ábra](test.png)
