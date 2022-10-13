@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def cosine_func(x, par_array):
+def test_func(x, par_array):
     A = par_array[0]
     B = par_array[1]
     C = par_array[2]
@@ -14,7 +14,7 @@ def cosine_func(x, par_array):
 parameters = [1, 1, 0]
 
 integral = funcs.NumInt(10000, 0, 1)
-result = integral.result_function(cosine_func, parameters)
+result = integral.result_function(test_func, parameters)
 
 
 def Gauss(x, par_array):
